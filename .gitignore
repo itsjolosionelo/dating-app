@@ -452,10 +452,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-##
-## Private Files
-##
-datingapp.db
-appsettings.json
-appsettings.Development.json
